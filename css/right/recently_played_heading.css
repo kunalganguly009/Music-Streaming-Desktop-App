@@ -1,0 +1,12 @@
+.recently_played_heading{
+    height: 30px;
+    width: 100%;
+    /* background-color: greenyellow; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.recently_played_heading h6{
+    color: #adadad;
+}
+

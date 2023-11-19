@@ -1,0 +1,17 @@
+.user_DP_Name_Icons{
+    height: 10%;
+    width: 100%;
+    /* background-color: rgb(255, 145, 0); */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.user_DP_Name_Icons img{
+height: 30px;
+width: 30px;
+border-radius: 50%;
+background-position: center;
+background-size: cover;
+}

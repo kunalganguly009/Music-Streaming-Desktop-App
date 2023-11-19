@@ -1,0 +1,30 @@
+.recently_played_list{
+    height: 30%;
+    width: 100%;
+    /* background-color: cadetblue; */
+
+}
+.recently_played_list .item{
+    height: 30px;
+    width: 100%;
+    /* background-color: rgb(250, 144, 5); */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin: 5px 0 5px 0;
+}
+.recently_played_list .item img {
+    height: 30px;
+    width: 30px;
+}
+.recently_played_list .item .recently_played_list_song_name_by{
+margin-right: 30%;
+}
+.recently_played_list_by , .recently_played_list_minAgo{
+    color: #adadad;
+
+}
+
+
+

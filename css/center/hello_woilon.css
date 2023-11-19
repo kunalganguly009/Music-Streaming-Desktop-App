@@ -1,0 +1,13 @@
+.centre_body_hello_woilon {
+    height: 30px;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    /* background-color: yellow; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.centre_body_hello_woilon h5{
+    color:#adadad;
+}

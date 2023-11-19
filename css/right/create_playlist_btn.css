@@ -1,0 +1,8 @@
+.create_playlist{
+    height: 35px;
+    width: 100%;
+    background-color: rgb(224, 221, 221);
+    color: black;
+    outline: none;
+    border-radius: 8px;
+}
